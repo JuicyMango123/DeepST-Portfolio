@@ -11,11 +11,11 @@ To get the SC code running, please refer to the instructions provided [here](htt
 
 Run the test.py file, which establishes a communication pipeline that includes both the SC and JSCC channels.
 
-#### Training and Testing
+#### Training and Testing Procedures
 
-The deepst-v4.2.ipynb Jupyter Notebook file encompasses all necessary steps for environment setup, data preprocessing, model configuration, training, and testing. You can retrain the model by modifying parameters within this file.
+The deepst-v4.2.ipynb Jupyter Notebook file encompasses all necessary steps for environment setup, data preprocessing, model configuration, training, and testing. You can retrain the model by modifying parameters within this file. Additionally, the JSCC folder includes small samples of the text data utilized in the training process.
 
-For testing the model's accuracy, use the DeepST-run-v3.ipynb file.
+For testing the model's accuracy (input and output text), run the DeepST-run-v3.ipynb file.
 
 #### JSCC Neural Network Structure
 
